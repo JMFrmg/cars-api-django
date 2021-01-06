@@ -1,0 +1,7 @@
+<h1>Enregistrement d'une nouvelle voiture</h1>
+
+<form action="{% url 'new_car' %}" method="post">
+    {% csrf_token %}
+    {{ form }}
+    <input type="submit" value="Submit">
+</form>
