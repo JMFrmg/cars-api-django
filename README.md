@@ -16,6 +16,6 @@ http://127.0.0.1:8000/carsapi/car/
 Formulaire de création d'une nouvelle car:</br>
 http://127.0.0.1:8000/carsapi/car/new
 
-Affichage d'une car (remplacer <id> par l'id du car recherché):</br>
-http://127.0.0.1:8000/carsapi/car/<id>
+Affichage d'une car (remplacer id par l'id du car recherché):</br>
+http://127.0.0.1:8000/carsapi/car/id
 
